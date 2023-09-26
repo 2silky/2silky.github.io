@@ -9,6 +9,6 @@ I don't believe any HVAC technician chose their career, I believe that they were
 
 Refrigeration systems are very complex machines, and as they evolve they become even more challenging to understand. So, as technicians we must never stop learning and always seek to improve our knowledge. Every Service Guru has a complete understanding of HVAC fundamentals, but will always continue to develop as does technology.
 
-Through application of science and fundamentals, we eliminate guesswork. Throughout our careers, we have gotten used to being the last ones called upon, but now we would like to be the first ones chosen.
+Through application of science and fundamentals, we eliminate guesswork. Throughout our careers, we have gotten used to being the last ones called upon, but now, we would like to be the first ones chosen.
 
 {% include archive.html %}
