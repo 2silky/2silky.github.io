@@ -1,11 +1,11 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
+title: Service Guru
+description: Commercial HVAC Specialists
 taglong: Jekyll theme for a beautiful online CV
 tagshort: Jekyll theme
-url: https://cvless.netlify.app
-baseurl: ""
+url: https://2silky.github.io
+baseurl: 
 permalink: pretty
 repo: https://github.com/username/username.github.io
 
