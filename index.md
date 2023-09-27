@@ -15,7 +15,7 @@ Through application of science and fundamentals, we eliminate guesswork. Through
 
 Whether you are a service technician in need of support, or a business owner that needs their HVAC system serviced, or you just want to say hi, we would love to hear from you.
 
-Call or Text: +1(913)669-9829
+Call or Text: +1(913)669-9829<br/>
 E-mail: <a href = "mailto: service@ServeUs.guru">service@ServeUs.guru</a>
 
 Or, use the contact form below:
