@@ -15,4 +15,6 @@ Through application of science and fundamentals, we eliminate guesswork. Through
 
 Whether you are a service technician in need of support, or a business owner that needs their HVAC system serviced, or you just want to say hi, we would love to hear from you. Feel free to give us a call at (913)669-9829, or leave us a message at the form below.
 
+{% include contact-form.html %}
+
 {% include archive.html %}
