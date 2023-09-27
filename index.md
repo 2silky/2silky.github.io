@@ -15,6 +15,7 @@ Through application of science and fundamentals, we eliminate guesswork. Through
 
 Whether you are a service technician in need of support, or a business owner that needs their HVAC system serviced, or you just want to say hi, we would love to hear from you. Feel free to give us a call at (913)669-9829, or leave us a message at the form below.
 
+<html>
 <form id="fs-frm" name="complaint-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
@@ -29,5 +30,6 @@ Whether you are a service technician in need of support, or a business owner tha
   <div data-lastpass-icon-root="true" style="position: relative !important; height: 0px !important; width: 0px !important; float: left !important;"></div></fieldset>
   <input type="submit" value="File Complaint">
 </form>
+</html>
 
 {% include archive.html %}
