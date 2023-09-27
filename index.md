@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-# Currently Serving Kansas City Metro and surrounding area.
+# Currently serving Kansas City Metro and surrounding area.
 
 # <center><span style="color:#3498db"><a href="/about/">Click Here to Learn More About Us</a></span></center>
 

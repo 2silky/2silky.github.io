@@ -10,6 +10,6 @@ I don’t believe any HVAC technician chose this career, I believe that they wer
 
 Refrigeration systems are very complex machines, and as they evolve they become even more challenging to understand. So, as technicians, we must never stop learning and always seek to improve our knowledge. All of our team members have a thorough understanding of HVAC principles, but will always continue to develop as does technology.
 
-Through application of science and fundamentals, we eliminate guesswork.
+Through application of science, fundamentals, and over 20 years of experience, we eliminate guesswork.
 
 # <span style="color:#3498db"><a href="/#scroll">Contact Us</a></span>
