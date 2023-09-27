@@ -12,4 +12,4 @@ Refrigeration systems are very complex machines, and as they evolve they become 
 
 Through application of science and fundamentals, we eliminate guesswork.
 
-# <span style="color:blue"><a href="/#scroll">Contact Us</a></span>
+# <span style="color:#3498db"><a href="/#scroll">Contact Us</a></span>
