@@ -1,15 +1,18 @@
 <header>
+  <style>
+    h1 {text-align: center;}
+    h2 { text-align: center;}
+    </style>
   <div>
-    <img class="particles-photo" src="{{ site.photo }}" />
-    <h1><a class="site-title" href="/">{{ site.title }}</a>
-    <small>
+    <a href="/"><img class="particles-photo" src="{{ site.photo }}" /></a>
+    <h1><a class="site-title" href="/">{{ site.title }}</a></h1>
+    <h2><small>
       {% if site.tagshort %}
       {{ site.tagshort }}
       {% else %}
       {{ site.taglong }}
       {% endif %}
-    </small>
-    </h1>
+    </small></h2>
   </div>
   <a id="theme-toggle" class="toggle-icon" onclick="modeSwitcher()"></a>
 </header>
