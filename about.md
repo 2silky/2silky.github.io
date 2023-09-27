@@ -4,7 +4,7 @@ permalink: /about/
 title: About Us
 ---
 
-# About
+# About Us
 
 I don’t believe any HVAC technician chose this career, I believe that they were chosen. It takes specific individuals to perform in one of the most physically and mentally demanding trades. At Service Guru, we remember that it is our duty, and our purpose to serve our community by applying our knowledge of science and refrigeration principles.
 
