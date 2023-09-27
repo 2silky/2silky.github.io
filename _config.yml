@@ -12,8 +12,8 @@ repo: https://github.com/username/username.github.io
 # author settings
 
 author: Service Guru
-  name:
-  email: service@serveus.guru
+name:
+email: service@serveus.guru
 photo: /assets/jpg/atom.png
 
 # social media links
