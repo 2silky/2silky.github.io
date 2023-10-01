@@ -5,7 +5,7 @@ title: Home
 
 # Currently serving Kansas City Metro and surrounding areas.
 
-# <center><span style="color:#3498db"><a href="/about/">Click Here to Learn More About</a></span></center>
+# <center><span style="color:#3498db"><a href="/about/">Click Here to Learn More About Us</a></span></center>
 
 {% include contact.html %}
 
