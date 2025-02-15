@@ -1009,7 +1009,8 @@ a {
   text-align: left;
   vertical-align: baseline;
   width: 70px;
-  padding-top: 5px;
+  height: 70px;
+  padding-top: 10px;
   padding-bottom: 5px;
   padding-left: 20px;
   display: inline-block;
