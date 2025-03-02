@@ -51,6 +51,7 @@ a {
 }
 
 .about-section {
+  background-color: #fff;
   border: 5px solid red;
   border-left: 0 red;
   border-right: 0 red;
@@ -63,8 +64,10 @@ a {
 .service-section {
   color: #fff;
   background-color: #000;
+  border-top: 5px solid #ff6200;
   border-left: 0 solid #000;
   border-right: 0 solid #000;
+  border-radius: 0;
   flex-flow: column;
   align-items: center;
   display: flex;
@@ -82,6 +85,7 @@ a {
   text-align: center;
   letter-spacing: 7px;
   font-family: Oswald, sans-serif;
+  font-size: 45px;
 }
 
 .home-text-block {
@@ -119,6 +123,7 @@ a {
   text-align: center;
   letter-spacing: 2px;
   margin-top: 40px;
+  font-size: 60px;
 }
 
 .paragraph {
@@ -144,6 +149,7 @@ a {
   margin-top: 0;
   padding-top: 40px;
   padding-bottom: 10px;
+  font-size: 60px;
 }
 
 .contact-text {
@@ -167,6 +173,8 @@ a {
   text-align: center;
   letter-spacing: 1px;
   margin-top: 10px;
+  margin-bottom: 20px;
+  font-size: 30px;
   line-height: 30px;
 }
 
@@ -198,8 +206,14 @@ a {
 }
 
 .footer {
+  background-color: #fff;
   flex-flow: row;
   display: flex;
+  position: static;
+}
+
+.heading-phone {
+  font-size: 40px;
 }
 
 .footer-container {
@@ -249,8 +263,9 @@ a {
 
 .contact-form-heading {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 0;
   margin-bottom: 30px;
+  font-size: 45px;
 }
 
 .contactform {
@@ -306,10 +321,22 @@ a {
   background-color: #8264db;
 }
 
+.callbutton {
+  z-index: -1;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  position: fixed;
+  inset: auto 0% 0% auto;
+}
+
+.image {
+  display: block;
+}
+
 @media screen and (max-width: 991px) {
   .service-headings {
     text-align: center;
-    font-size: 28px;
+    font-size: 26px;
     overflow: visible;
   }
 
@@ -320,6 +347,10 @@ a {
 }
 
 @media screen and (max-width: 767px) {
+  .home-subheading {
+    line-height: 40px;
+  }
+
   .columns {
     display: block;
   }
@@ -338,12 +369,20 @@ a {
   .contact-form {
     max-width: 500px;
   }
+
+  .callbutton {
+    z-index: auto;
+  }
 }
 
 @media screen and (max-width: 479px) {
   .home-heading {
     padding-top: 0;
     line-height: 55px;
+  }
+
+  .home-subheading {
+    font-size: 40px;
   }
 
   .home-text-block {
@@ -361,7 +400,20 @@ a {
     padding-right: 10px;
   }
 
-  .paragraph, .contact-text {
+  .about-heading {
+    font-size: 40px;
+  }
+
+  .paragraph {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .contact-heading {
+    font-size: 40px;
+  }
+
+  .contact-text {
     padding-left: 10px;
     padding-right: 10px;
   }
@@ -397,7 +449,11 @@ a {
   }
 
   .contact-form-heading {
-    margin-bottom: 0;
+    text-indent: 0;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 38px;
+    line-height: 30px;
   }
 
   .contactform {
@@ -428,6 +484,12 @@ a {
 
   .service-column {
     padding-bottom: 20px;
+  }
+
+  .callbutton {
+    z-index: auto;
+    position: fixed;
+    inset: auto 0% 0% auto;
   }
 }
 
