@@ -504,11 +504,6 @@ a {
     inset: auto 0% 0% auto;
   }
 
-  .button-container {
-    display: flex;
-    position: fixed;
-  }
-
   .text-button {
     z-index: auto;
     grid-column-gap: 16px;
@@ -518,6 +513,10 @@ a {
     display: flex;
     position: fixed;
     inset: auto auto 0% 0%;
+  }
+
+  .textbutton {
+    display: block;
   }
 }
 
